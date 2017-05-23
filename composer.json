@@ -1,5 +1,7 @@
 {
     "require": {
+    	"php": ">=5.3.10",
+        "twig/twig": "1.33.0",
         "silex/silex": "~2.0",
         "codeages/biz-framework": "^0.3.13"
     }
